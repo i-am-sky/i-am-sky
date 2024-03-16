@@ -1,7 +1,7 @@
 -  Hi, I’m Sky
--  I'm complete beginner.
--  I’m interested in Java, Python, and web development 
--  I’m currently learning full stack web development and machine learning and artificial intelligence 
+-  I'm a complete beginner.
+-  My interests are in Java, Python,SQL, javaScript, MongoDB, and web development.
+-  I’m currently learning full stack web development.
 -  I'm always available, you can reach me any time. 
 -  Hope we can collaborate and create a masterpiece
 
