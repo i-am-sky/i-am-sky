@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@skyshots](https://medium.com/@skyshots)
 
-- 💬 Ask me about **React, JavaScript, Python, Web Technologies, Database, OS**
+- 💬 Ask me about **React, JavaScript, Python and Web Technologies**
 
 - 📫 How to reach me **bothunter047@gmail.com**
 
